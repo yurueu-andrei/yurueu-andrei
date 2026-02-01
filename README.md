@@ -1,49 +1,59 @@
-<h1 align="center">Hi there, I'm Andrei 👋</h1>
+# Andrei Yuryeu — Java Developer ☕️
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Java+Developer;Spring+Boot+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&pause=700&color=36BCF7&width=520&lines=Junior+Java+Developer;Pet-projects+%2B+Clean+Code+%2B+Practice;Spring%2C+SQL%2C+REST%2C+Docker;Learning+something+new+every+day)](https://git.io/typing-svg)
 
-<p align="center">
-  <em>Java Developer by day, gym enthusiast by night. Building reliable backends and healthy habits.</em>
-</p>
-
-<div align="center">
-  <a href="https://taplink.cc/andrei_yuryeu">
-    <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=telegram" alt="Contact Me" />
-  </a>
-</div>
+Я пишу бэкенд на Java и прокачиваю инженерное мышление через **pet‑проекты**, задачи и регулярную практику. Люблю, когда код читается, сервисы логируются, а баги воспроизводятся.
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <!-- Языки и базы -->
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- Фреймворки и тулзы -->
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### ⚡ About Me
-- 🔭 **Working on:** High-load personal projects to sharpen my Java Core & Spring skills.
-- 🌱 **Learning:** Microservices architecture & Cloud technologies.
-- 🏋️‍♂️ **Fun fact:** I believe that `Health health = new Health();` is as important as clean code.
-- 📫 **Reach me:** [Taplink](https://taplink.cc/andrei_yuryeu)
+## ⚡️ Сейчас в фокусе
+- 🧠 Углубляю Java Core: коллекции, IO/NIO, потоки, concurrency
+- 🌿 Делаю проекты на **Spring** (REST, Security, Data)
+- 🧩 Практикую архитектуру: слои, модули, DTO/Mapper, тестируемость
+- 🏋️‍♂️ Держу баланс: голова работает лучше, когда тело тоже в форме
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <!-- Замени YOUR_USERNAME на свой никнейм на Github -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yuryeu.andrei&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuryeu.andrei&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
+## 🧰 Стек и инструменты
+**Основное:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2F74C0?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Инструменты/окружение:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=yurueu-andrei)      
+**Изучаю/планирую:**
+`Kafka` • `Redis` • `CI/CD` • `Cloud basics`
+
+---
+
+## 📌 Что можно найти в репозиториях
+- ✅ Pet‑проекты с реальными сценариями (REST API, БД, авторизация)
+- ✅ Учебные мини‑проекты и эксперименты (паттерны, многопоточность)
+- ✅ Заметки/шпаргалки по Java и Spring (если ведёшь — сюда отлично ложится)
+
+---
+
+## 📈 GitHub статистика
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yuryeu-andrei&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuryeu-andrei&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+## 📫 Контакты
+- 🔗 Все ссылки: https://taplink.cc/andrei_yuryeu
+
+---
+
+### 💬 Маленькое правило
+> «Сначала делаю, чтобы работало. Потом — чтобы было красиво. Потом — чтобы было быстро».
+  
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
